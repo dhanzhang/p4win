@@ -2,7 +2,7 @@
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ImportGroup Label="PropertySheets" />
   <PropertyGroup Label="UserMacros">
-    <P4APIDIR>C:\Users\perforce\Desktop\p4api-2013.1.766646.MAIN-TEST_ONLY-vs2010_dyn</P4APIDIR>
+    <P4APIDIR>C:\Portable\GitDepots\p4win\p4api-2013.3.822226-vs2010_dyn</P4APIDIR>
   </PropertyGroup>
   <PropertyGroup />
   <ItemDefinitionGroup />
